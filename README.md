@@ -1,2 +1,0 @@
-# hotel-inventory
-hotel-inventory
